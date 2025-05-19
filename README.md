@@ -1,12 +1,5 @@
-## Hi there 👋
-
-<!--
-**Deeksha-Gokarn/Deeksha-Gokarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 # 💫 About Me:
-Currently, rebooting my Freiburg Carbon Footprint Tracker 🌱 from scratch—this time with cleaner code, smoother data pipelines, and absolutely no file path drama. Also brushing up on cloud-native data engineering, because big data deserves big dreams!<br> 
+# 💫 About Me:
+Rebooting my Freiburg Carbon Footprint Tracker 🌱 from scratch—this time with cleaner code, smoother data pipelines, and absolutely no file path drama. Also brushing up on cloud-native data engineering, because big data deserves big dreams!<br>Data engineering projects that make an impact—be it eco-conscious apps, GCP/DataBricks pipelines, or clever dashboards that turn chaos into clarity. Bonus points if it's open-source and has some global good vibes. 🌍<br>Leveling up my cloud architecture skills, especially in designing scalable data lakes and CI/CD setups that don't make Jenkins cry. If you’ve tamed Kubernetes or danced with Data Governance dragons—let’s talk.<br>All things Databricks, Google Cloud Professional Data Engineering, and a dash of Terraform—because even clouds need structure. ☁️🔧<br>Moving from academic ML to real-world data engineering<br>Building resilient data pipelines on GCP<br>How not to lose your mind when Git says “pathspec did not match any files known to git”
 
 
 ## 🌐 Socials:
@@ -25,11 +18,4 @@ Currently, rebooting my Freiburg Carbon Footprint Tracker 🌱 from scratch—th
 ---
 [![](https://visitcount.itsvg.in/api?id=Deeksha-Gokarn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->’m currently working on ...
-- 🌱 I’m currently learning - All things Databricks, Google Cloud Professional Data Engineering, and a dash of Terraform—because even clouds need structure.<br>
-- 👯 I’m looking to collaborate Data engineering projects that make an impact—be it eco-conscious apps, GCP/DataBricks pipelines, or clever dashboards that turn chaos into clarity. Bonus points if it's open-source and has some global good vibes. 🌍<br>
-- 🤔 I’m looking for help with Leveling up my cloud architecture skills, especially in designing scalable data lakes and CI/CD setups that don't make Jenkins cry. If you’ve tamed Kubernetes or danced with Data Governance dragons—let’s talk.<br>
-- 💬 Ask me about - Moving from academic ML to real-world data engineering, Building resilient data pipelines on GCP, How not to lose your mind when Git says “pathspec did not match any files known to git”
-- 📫 How to reach me: gokarn.deeksha@gmail.com
-- ⚡ Fun fact: Once deployed a job that filled a table with a billion rows overnight—woke up to chaos, fixed it before coffee. Learned that data explosions are real, and debugging in pajamas is a core skill. 💣☕💻
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
